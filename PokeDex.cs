@@ -24,6 +24,7 @@ namespace PokemonGame
             PokeType = PokeType.Grass;
             Score = 20;
 
+
         }
     }
     public class Squirtle : Pokemon
